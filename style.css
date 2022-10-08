@@ -1,0 +1,44 @@
+body {
+	background-image: url("img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align:center;
+	color:#F0F0F0;
+}
+
+table {
+	border: 2px solid #F0F0F0;
+	text-align:center;
+}
+
+a {
+	color:#A0A0F0;
+}
+
+img {
+	width:200px;
+}
+
+.exponent {
+	position:relative;
+	font-size:75%;
+	bottom:0.5em;
+}
+
+div {
+	padding:10px;
+	background-color:#101010AA;
+}
+
+div.center {
+	margin-top:5%;
+	padding: 10px;
+	display:inline-block;
+}
+
+div.bottom {
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	width:100%;
+}
